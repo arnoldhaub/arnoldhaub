@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Hi guys, 
 
 Welcome on my profile. I am a **Junior Web Developer** in the making following a formation at Becode - Brussels.
 I am planning on **becoming a Back-end developer**.

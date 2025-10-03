@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 
-Welcome on my profile. I am a **Junior Web Developer** in the making following a formation at Becode - Brussels.
-I am planning on **becoming a Back-end developer**.
+Welcome on my profile. I am currently working as a **ServiceNow Developer** in a Consulting company (@Devoteam).
+Most of the work you will see here was done during my **Web Development** training @Becode - Brussels.
+
+If you want to connect, feel free to reach me out on Linkedin ;) 
 
 [![Arnoldhaub's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnoldhaub)](https://github.com/arnoldhaub/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldhaub&layout=compact)](https://github.com/arnoldhaub/github-readme-stats)
